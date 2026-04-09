@@ -4,3 +4,4 @@ Mata kuliah ini:
 - Menggunakan R-Markdown untuk memproduksi pelaporan otomatis yang memenuhi prinsip reproducible research melalui platform kontrol versi kolaboratif.
 - Menggunakan Git dan Github sebagai media kolaborasi.
 - Mengembangkan aplikasi statistika berbasis web menggunakan R-Shiny untuk menghasilkan instrumen analisis data interaktif serta pemodelan data yang dinamis.
+- Melakukan ujian.
