@@ -3,4 +3,5 @@ materi pertama membahas:
 2. review kuliah basis data
 3. pendahuluan
 4. koneksi data SQL ke R
-5. kuis awal
+5. review koneksi Tableau ke R
+6. kuis awal
