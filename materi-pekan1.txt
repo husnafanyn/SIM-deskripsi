@@ -1,6 +1,6 @@
 materi pertama membahas:
 1. kontrak kuliah
-2. review kuliah basis data
+2. review kuliah basis data dan visualisasi data
 3. pendahuluan
 4. koneksi data SQL ke R
 5. review koneksi Tableau ke R
