@@ -1,8 +1,9 @@
 materi pertama membahas:
 1. kontrak kuliah
-2. review kuliah basis data
+2. review kuliah basis data dan visualisasi data
 3. pendahuluan
 4. koneksi data SQL ke R
 5. mempelajari analisis data statistika dasar
 6. mempelajari visualisasi data dasar
-6. kuis awal
+7. review koneksi Tableau ke R
+8. kuis awal
