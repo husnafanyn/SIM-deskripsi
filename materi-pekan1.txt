@@ -2,3 +2,4 @@ materi pertama membahas:
 1. kontrak kuliah
 2. pendahuluan
 3. koneksi data SQL ke R
+4. kuis awal
