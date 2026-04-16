@@ -1,3 +1,4 @@
 menghubungkan antara git dan GitHub:
 - buat akun github
 - install software git
+- hubungkan remote antara git dan github
